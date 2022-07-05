@@ -1,0 +1,10 @@
+C:\Gabo\Universidad\7mo Semestre\SO1\SchedulerSimulator\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Gabo\Universidad\7mo Semestre\SO1\SchedulerSimulator\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Gabo\Universidad\7mo Semestre\SO1\SchedulerSimulator\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Gabo\Universidad\7mo Semestre\SO1\SchedulerSimulator\WindowsFormsApp1\obj\Debug\SchedulerSimulator.csprojAssemblyReference.cache
+C:\Gabo\Universidad\7mo Semestre\SO1\SchedulerSimulator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Gabo\Universidad\7mo Semestre\SO1\SchedulerSimulator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Gabo\Universidad\7mo Semestre\SO1\SchedulerSimulator\WindowsFormsApp1\obj\Debug\SchedulerSimulator.csproj.GenerateResource.cache
+C:\Gabo\Universidad\7mo Semestre\SO1\SchedulerSimulator\WindowsFormsApp1\obj\Debug\SchedulerSimulator.csproj.CoreCompileInputs.cache
+C:\Gabo\Universidad\7mo Semestre\SO1\SchedulerSimulator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Gabo\Universidad\7mo Semestre\SO1\SchedulerSimulator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
